@@ -2,13 +2,13 @@
 
 ###
 
-<div align="center">
+<div align="left">
   <img height="500" src="https://www.americar.de/thumbs/img/News/81/62/00/p/p_normal/colt-seavers-ist-zurueck-ein-colt-fuer-alle-faelle-kommt-als-remake-6281.jpg"  />
 </div>
 
 ###
 
-<p align="left">My name is Dandy and I'm a WebDev from Germany. I prefer working at frontends...</p>
+<p align="left">I'm a WebDev from Germany and prefer working at frontends...</p>
 
 ###
 
