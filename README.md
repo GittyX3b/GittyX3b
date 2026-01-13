@@ -2,12 +2,6 @@
 
 ###
 
-<div align="left">
-  <img height="500" src="https://www.americar.de/thumbs/img/News/81/62/00/p/p_normal/colt-seavers-ist-zurueck-ein-colt-fuer-alle-faelle-kommt-als-remake-6281.jpg"  />
-</div>
-
-###
-
 <p align="left">I'm a WebDev from Germany and prefer working at frontends...</p>
 
 ###
@@ -52,6 +46,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1998<br>📚 I'm currently learning express, zod, mongoose.<br>🎯 Goals: shiny locks<br>🎲 Fun fact: 1+1=11</p>
+<p align="left">✨ Creating bugs since 1998<br>📚 I'm currently learning how to garden.<br>🎯 Goals: shiny locks<br>🎲 Fun fact: 1+1=11</p>
 
 ###
