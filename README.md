@@ -32,6 +32,6 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 1998<br>📚 I'm currently learning how to garden.<br>🎯 Goals: shiny locks<br>🎲 Fun fact: 1+1=11</p>
+<p align="left">✨ Creating bugs since 1998<br>📚 I'm currently learning how to garden.<br>🎯 Goals: getting hired<br>🎲 Fun fact: 1+1=11</p>
 
 ###
