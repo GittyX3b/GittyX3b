@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">I'm a WebDev from Germany and prefer working at frontends...</p>
+<p align="left">I'm a free WebDev from Germany and prefer working at frontends...</p>
 
 ###
 
